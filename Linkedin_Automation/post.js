@@ -23,6 +23,6 @@ github repository link: link nhi dunga
  
 A special thanks to Abhishek Goel sir for his support and guidance and all your efforts to help me in web development.
 I have learned many things from you.
-Mentor: Abhishek Goel Jasbir Singh Pepcoding Education Private Limited
+Mentor: Abhishek Goel Pepcoding Education Private Limited
     `]
 }
